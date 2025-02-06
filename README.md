@@ -15,8 +15,10 @@ This is a NestJS application using Sequelize as the ORM and MySQL as the databas
 ### Clone the Repository
 
 ```sh
-git clone <repository-url>
-cd <repository-directory>
+git clone <https://github.com/ayowilfred95/sequelize-nestjs.git>
+
+```
+
 
 
 ## Environment Variables
