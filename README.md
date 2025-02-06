@@ -25,7 +25,6 @@ git clone https://github.com/ayowilfred95/sequelize-nestjs.git
 Create a `.env` file in the root directory of the project and add the following environment variables:
 
 ```
-# Example environment variables
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=yourpassword
